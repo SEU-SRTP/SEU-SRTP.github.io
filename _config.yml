@@ -25,8 +25,8 @@ author:
   name             : "无人机对地通信场景中3D信道地图构建"
   pronouns         : # example: "she/her"  
   bio              : "成员为肖诗宇、张涵宾、杨颖怡、徐思琪、单舟"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "江苏 · 南京"
+  employer         : "东南大学"
   uri              : # URL
   email            : "zhaobanbdwp@zohomail.cn" 
 
@@ -48,7 +48,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : #"bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
